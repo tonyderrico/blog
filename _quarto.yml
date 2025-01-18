@@ -3,6 +3,7 @@ project:
 
 website:
   title: "blog1"
+  site-url: https://tonyderrico.github.io/blog/
   navbar:
     right:
       - about.qmd
