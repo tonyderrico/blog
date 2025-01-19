@@ -2,15 +2,15 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "blog1"
+  title: "open room"
   site-url: https://tonyderrico.github.io/blog/
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/tonyderrico
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/tony_derr
 format:
   html:
     theme: cosmo

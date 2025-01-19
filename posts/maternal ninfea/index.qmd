@@ -1,0 +1,29 @@
+---
+title: "Maternal occupational exposures during early stages of pregnancy and adverse birth outcomes in the NINFEA birth-cohort"
+author: "Toni"
+date: "2025-01-18"
+categories: [scientific news]
+image: "image.webp"
+draft: FALSE
+---
+
+**Objectives:**\
+Maternal occupational exposures during early pregnancy can negatively impact foetal health, potentially leading to short- and long-term health consequences for the child. This study investigated the relationship between maternal occupational exposures and adverse birth outcomes, including birthweight, preterm birth, and delivery by caesarean section.
+
+**Methods:**\
+The study analyzed 3,938 nulliparous women from the Italian NINFEA cohort. Maternal exposures during the first trimester were assessed using questionnaires and job-exposure matrices. Multivariable regression models examined associations between exposures and birth outcomes. Exploratory factor analysis explored co-exposure profiles related to outcomes.
+
+**Results:**
+
+-   Women exposed to **passive smoking at work** or those who **reduced working hours** during pregnancy had a higher likelihood of adverse birth outcomes.
+
+-   **Demanding work** was linked to reduced odds of preterm birth (OR 0.72) and higher birthweight (increase of 40.4 g).
+
+-   **Heat exposure** was associated with lower birthweight (decrease of 160.1 g).
+
+-   **Dust exposure** increased the likelihood of caesarean section (OR 6.99).
+
+**Conclusions:**\
+The findings suggest a "healthy worker effect" and demonstrate significant associations between occupational exposures (passive smoking, heat, and dust) and adverse birth outcomes. This underscores the need for protective measures for pregnant women in the workplace.
+
+[Maternal occupational exposures during early stages of pregnancy and adverse birth outcomes in the NINFEA birth-cohort](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313085)
