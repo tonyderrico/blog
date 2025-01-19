@@ -1,5 +1,5 @@
 ---
-title: "Antonio d'Errico"
+title: "occupational health: where Science meets Workers' rights"
 listing:
   contents: posts
   sort: "date desc"

@@ -1,6 +1,6 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Giulia, ti amo"
+author: "Tonino"
 date: "2025-01-15"
 categories: [news]
 ---

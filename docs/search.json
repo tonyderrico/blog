@@ -2,23 +2,23 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Giulia, ti amo",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Antonio d’Errico",
+    "title": "occupational health: where Science meets Workers’ rights",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nGiulia, ti amo\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\nTonino\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Antonio d’Errico",
     "section": "",
-    "text": "About this blog"
+    "text": "Antonio (Toni) is a postdoctoral researcher in the Occupational Health group at the Institute of Risk Assessment Sciences (IRAS). He is trained in occupational and environmental epidemiology, with a focus on exposure science. His work primarily focuses on the LEXCES project, the national expertise center for substance-related occupational diseases, and the EPHOR project, the Exposome Project for Health and Occupational Research. \nToni holds a MSc in Toxicology and Environmental Health from Utrecht University and a PhD from the University of Turin. His doctoral research centered on the external exposome in life-course studies, particularly examining a wide range of occupational and environmental exposures during pregnancy and early life stages and their potential associations with birth outcomes. \nThroughout his academic journey, Toni has collaborated with various academic and research institutes, including the Universitat de València in the Food Toxicology Unit (2016); the Universitat de Vigo at the Occupational Health and Safety Department (2017); the KWR Water Research Institute and Allied Waters at the Chemical Water Quality Unit (2019); the NGO La Isla Network (2020); the ISGlobal (Instituto de Salud Global) (2022) and the Norwegian Institute of Public Health (NIPH) in the Food Safety Unit (2022). During these experiences, Toni advanced his expertise combining fieldwork (industrial hygiene), lab techniques (MS-techniques) and computational approaches in epidemiology. \nIn addition to his research, Toni actively contributes to the NPO Workplace Health Without Borders (WHWB) working groups on asbestos and heat stress. Through these initiatives, he collaborates with other experts to share his scientific knowledge and support workplace health initiatives in low- and middle-income countries."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,12 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#working-in-healthy-conditions-is-a-right-and-conducting-quality-research-plays-a-fundamental-role-in-supporting-workers-worldwide.",
+    "href": "about.html#working-in-healthy-conditions-is-a-right-and-conducting-quality-research-plays-a-fundamental-role-in-supporting-workers-worldwide.",
+    "title": "Antonio d’Errico",
+    "section": "",
+    "text": "Antonio (Toni) is a postdoctoral researcher in the Occupational Health group at the Institute of Risk Assessment Sciences (IRAS). He is trained in occupational and environmental epidemiology, with a focus on exposure science. His work primarily focuses on the LEXCES project, the national expertise center for substance-related occupational diseases, and the EPHOR project, the Exposome Project for Health and Occupational Research. \nToni holds a MSc in Toxicology and Environmental Health from Utrecht University and a PhD from the University of Turin. His doctoral research centered on the external exposome in life-course studies, particularly examining a wide range of occupational and environmental exposures during pregnancy and early life stages and their potential associations with birth outcomes. \nThroughout his academic journey, Toni has collaborated with various academic and research institutes, including the Universitat de València in the Food Toxicology Unit (2016); the Universitat de Vigo at the Occupational Health and Safety Department (2017); the KWR Water Research Institute and Allied Waters at the Chemical Water Quality Unit (2019); the NGO La Isla Network (2020); the ISGlobal (Instituto de Salud Global) (2022) and the Norwegian Institute of Public Health (NIPH) in the Food Safety Unit (2022). During these experiences, Toni advanced his expertise combining fieldwork (industrial hygiene), lab techniques (MS-techniques) and computational approaches in epidemiology. \nIn addition to his research, Toni actively contributes to the NPO Workplace Health Without Borders (WHWB) working groups on asbestos and heat stress. Through these initiatives, he collaborates with other experts to share his scientific knowledge and support workplace health initiatives in low- and middle-income countries."
   }
 ]
