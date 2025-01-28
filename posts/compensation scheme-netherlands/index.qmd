@@ -11,7 +11,6 @@ image: "image.jpg"
 
 Financial redress for victims of occupational diseases can be offered through no-fault compensation schemes. No-fault compensation schemes have an explicit mission in promoting perceived fairness and justice.
 
-The objective is to offer a quick, fair and just procedure and outcome, while preventing civil court procedures and restoring trust. However, the question is whether applicants of these no-fault schemes indeed experience perceived fairness and justice. This paper discusses the result of an in-depth interview
-study with fifty-eight victims involved in no-fault schemes for occupational diseases in the Netherlands. We focus on the role of perceived procedural justice, outcome concerns and trust in the (former) employer.
+The objective is to offer a quick, fair and just procedure and outcome, while preventing civil court procedures and restoring trust. However, the question is whether applicants of these no-fault schemes indeed experience perceived fairness and justice. This paper discusses the result of an in-depth interview study with fifty-eight victims involved in no-fault schemes for occupational diseases in the Netherlands. We focus on the role of perceived procedural justice, outcome concerns and trust in the (former) employer.
 
 [Click to read the paper!](https://www.cambridge.org/core/journals/international-journal-of-law-in-context/article/reactions-to-nofault-compensation-schemes-for-occupational-diseases-in-the-netherlands-the-role-of-perceived-procedural-justice-outcome-concerns-and-trust-in-authorities/C4BB51827A3EDE4F795567B652644678)
