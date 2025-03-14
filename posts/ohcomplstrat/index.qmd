@@ -2,7 +2,6 @@
 title: "ShinyApp and R Package 'OHcomplianceStrategies' - to test compliance of workers' exposure"
 date: "2025-03-14"
 categories: [methods, scientific news]
-image: 
 ---
 
 -   [10.5281/zenodo.15024863](http://dx.doi.org/10.5281/zenodo.15024863)
@@ -11,4 +10,10 @@ The R OHcomplianceStrategies package provides methods to assess the exposure com
 
 The app is available at the following link with all needed instructions to compute your analysis. https://antonioderrico.shinyapps.io/complianceStrategiesShinyApp/
 
-The R package includes several compliance tests and calculations for overexposure and exceedance of OELs, including: • Phase One: Preliminary Test from EN689 standards 1995 and 2018. Equations comparing exposure measurements with the OEL are reported in the Annex C of EN689:1995 and Section 5.5.2. of EN689:2018. • Phase Two: Statistical Test from EN689 standards 1995 and 2018, and U-test of BOHS-NVvA:2011. Equations comparing exposure measurements with the OEL are reported in the Annex D of EN689:1995 and Annex F of EN689:2018. The U-test is reported in the BOHS-NvVA guidance of 2011. • Phase Three: Individual Compliance and Between-Worker Variance from BOHS-NVvA guidance of 2011 (Chapter 3). Analysis of variance is used to estimate the variability of individuals’ exposures within and between SEGs and consequently test compliance of an individual worker’s exposure with the OEL.
+The R package includes several compliance tests and calculations for overexposure and exceedance of OELs, including:
+
+• Phase One: Preliminary Test from EN689 standards 1995 and 2018. Equations comparing exposure measurements with the OEL are reported in the Annex C of EN689:1995 and Section 5.5.2. of EN689:2018.
+
+• Phase Two: Statistical Test from EN689 standards 1995 and 2018, and U-test of BOHS-NVvA:2011. Equations comparing exposure measurements with the OEL are reported in the Annex D of EN689:1995 and Annex F of EN689:2018. The U-test is reported in the BOHS-NvVA guidance of 2011.
+
+• Phase Three: Individual Compliance and Between-Worker Variance from BOHS-NVvA guidance of 2011 (Chapter 3). Analysis of variance is used to estimate the variability of individuals’ exposures within and between SEGs and consequently test compliance of an individual worker’s exposure with the OEL.
