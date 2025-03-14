@@ -1,7 +1,9 @@
 ---
 title: "ShinyApp and R Package 'OHcomplianceStrategies' - to test compliance of workers' exposure"
 date: "2025-03-14"
+author: "Antonio d'Errico"
 categories: [methods, scientific news]
+image: shiny.png
 ---
 
 -   [10.5281/zenodo.15024863](http://dx.doi.org/10.5281/zenodo.15024863)
